@@ -51,4 +51,4 @@ Berikut adalah file yang disertakan dalam repository GitHub:
 - `README.md` - Dokumentasi proyek
 
 ---
-*Silakan unggah file ini ke GitHub untuk dokumentasi lengkap proyek.*
+
